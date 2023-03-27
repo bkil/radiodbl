@@ -1,6 +1,8 @@
 # RadiODBL
 
-We're investigating whether it is possible to create wardriving project that:
+## Introduction
+
+We're investigating whether it is possible to create a wardriving project that:
 
 * is open source
 * has open data - you get a fair share back in exchange for your contribution
@@ -11,14 +13,15 @@ We're investigating whether it is possible to create wardriving project that:
 * visualizes on many levels
 * offers manual localization improvement
 * contributes to OpenStreetMap and its maintenance
+* can provide insight to OpenWrt to make informed decisions
 
-Inspiration:
+## Inspiration
 
 * RadioCells.org (OpenBMap)
 * OpenWifi.su (OpenWLANMap, libwlocate)
 * OpenCellId.org
 * WiGLE.net
 
-Contact:
+## Contact
 
-* [matrix.grin.hu/#/room/#wardriving:grin.hu](https://matrix.grin.hu/#/room/#wardriving:grin.hu)
+* [matrix.to/#/room/#wardriving-hu:matrix.org](https://matrix.to/#/room/#wardriving-hu:matrix.org)

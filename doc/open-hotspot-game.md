@@ -1,6 +1,8 @@
 # Open hotspot mapping game
 
-Wardriving challenge. You are deployed first in an unfamiliar city then in a larger town for a specific time frame (e.g., 1 hour each time).
+Wardriving challenge. You are deployed first in an unfamiliar city then in a larger town for a specific time frame (e.g., 1 hour each time). The location may even be chosen at random:
+
+https://en.wikipedia.org/wiki/Geohashing
 
 ## Goal
 

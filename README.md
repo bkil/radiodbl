@@ -21,6 +21,8 @@ We're investigating whether it is possible to create a wardriving project that:
 * OpenWifi.su (OpenWLANMap, libwlocate)
 * OpenCellId.org
 * WiGLE.net
+* https://github.com/freifunk/openwifimap-html5
+* https://github.com/freifunk/openwifimap-api/
 
 ## Contact
 

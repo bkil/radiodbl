@@ -33,3 +33,4 @@ The exact scale is subject to optimization.
 
 * You must record a GPX trace and a log of all connections and survey results in the background automatically. Traces and open hotspots should be contributed to OpenStreetMap in the end. GeoIP and metadata about the AP may be contributed to some open database.
 * You should run a service in the background which gives an instant audible notification for each insecure AP found. You should leave a business card for the owner. You should do the same if you feel that a given open hotspot was not intended to be left open.
+* You should share in a small journal entry at the end what your strategy was, how it worked out, what issues you faced and other related recommendations.

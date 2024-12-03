@@ -2,7 +2,7 @@
 
 The scope of this project is limited to:
 
-* OSM POI prediction, change detection or evidence as secondary verification for quality assurance
+* OpenStreetMap POI prediction, change detection or evidence as secondary verification for quality assurance
 * crowdsourcing free hotspots
 * crowdsourcing a ground-based crude self-localization database
 * crowdsourcing SSID poetry entertainment
